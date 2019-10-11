@@ -16,10 +16,10 @@ Description of the project concept in your own words.
 - Search Bar.
 
 2. Footer:
-- Link to Site Map.
+- Voted as the IDD best program in Toronto.
 - Contact information of George Brown College.
-- Link to Blackboard.
-- Link to Stu-View.
+- Reference.
+- Copy right.
 
 3. Body of Overview:
 - Program name, duration, code, location, starting months.
@@ -27,20 +27,23 @@ Description of the project concept in your own words.
 - Career Opportunities.
 - Educational Pathway.
 
-4. Description:
+Description:
 - Brief explanation of the program.
 - The ability of students after learning from the program.
 
-5. Tuition and Fees:
+Tuition and Fees:
 - Cost of the program.
 
-6. How to apply: 
+How to apply: 
 - Explain the requirement to apply for the program.
 
-7. Student works:
+Software to learn:
+- Javascript, Maya, Photoshop, ...
+
+Student works:
 - Show portfolios of graduated students.
 
-8. Contact Us:
+Contact Us:
 - Show phone number, map of the campus.
 
 
